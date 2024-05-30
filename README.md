@@ -1,1 +1,1 @@
-Мой бэкенд: https://bankai-backend.nomorepartiesco.ru/
+Это мой бэкенд: https://bankai-backend.nomorepartiesco.ru/
