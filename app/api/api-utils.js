@@ -26,8 +26,8 @@ const normalizeDataObject = (obj) => {
 
 export const normalizeData = (data) => {
   return data.map((item) => {
-    return (item)
-  })
+    return normalizeDataObject(item);
+  });
 }
 
 export const getNormalizedGameDataById = async (url, id) => {
